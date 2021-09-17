@@ -9,6 +9,7 @@
 - [Showing command line output on a html page](https://stackoverflow.com/questions/53860093/showing-command-line-output-on-a-html-page)
 #### xterm.js
     - npm install xterm
+        - index.html code from this site
         - [Xterm.js | Build terminals in the browser](https://xtermjs.org/)
 
 ## References
